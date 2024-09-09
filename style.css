@@ -89,7 +89,7 @@ body {
   display: grid;
   grid-template-rows: 1fr 1fr;
   min-height: 7.813rem;
-  padding: 1.5rem;
+  padding: 1.875rem;
   width: 100%;
 }
 .details-range {
